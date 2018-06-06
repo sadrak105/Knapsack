@@ -34,5 +34,5 @@ for (let l of lines) {
     index: index,
     size: size,
     value: value,
-  })
+  });
 }
